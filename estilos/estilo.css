@@ -91,9 +91,6 @@ thead tr td {
 .article-table > tbody{
    background-color: white;
 }
-tbody tr:nth-child(3){
-   background-color: pink; /*teste para o proximo*/
-}
 
 tbody tr td{
    font-family: Arial, Helvetica, sans-serif;
@@ -107,8 +104,29 @@ tbody tr td{
    width: 100%;
    border: 1px solid black;
 }
-.article-thead2{
-   background-color: #17a4a3;
-   padding: 5px 0;
+.article-table2 > thead{
+   background-color: #778585;
+   padding: 5px 0px;
+}
+
+
+.article-table2 > tbody {
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   padding: 5px;
+   width: 50%;
+   border-top: 1px solid black;
+
+}
+#TB2 tr:nth-child(2){
+   background-color:yellow; /*teste para o proximo*/
+}
+
+#TB2 tr:nth-child(3){
+   background-color: green; /*teste para o proximo*/
+}
+
+#TB2 tr:nth-child(1){
+   background-color:cadetblue; /*teste para o proximo*/
 }
 
