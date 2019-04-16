@@ -118,26 +118,30 @@ tbody tr td{
    border-top: 1px solid black;
 
 }
+/*
 #TB2 tr:nth-child(2){
-   background-color:yellow; /*teste para o proximo*/
+   background-color:yellow; 
 }
 
 #TB2 tr:nth-child(3){
-   background-color: green; /*teste para o proximo*/
+   background-color: green; 
 }
 
 #TB2 tr:nth-child(1){
-   background-color:cadetblue; /*teste para o proximo*/
+   background-color:cadetblue; 
 }
+*/
 a.lk{
 background: green;
- text-decoration: none;
+text-decoration: none;
 border-radius: 4px;
-cursor: pointer;
 padding: 5px 10px;
 display: inline-block;
 border: none;
 margin: 5px 0px;
+text-align: center;
+align-items: center;
+width: 10%;
 }
 footer{
    clear: both;

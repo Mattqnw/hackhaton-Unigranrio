@@ -9,14 +9,13 @@ color:red;
  }
 */
 
- #img1{
+ img{
     width: 500px;
-    border-radius: 4px;
     height: 300px;
  }
  
  h1{
-    color: blue;
+    color: white ;;
     background:black;
     text-align: center;
     display: flex;
